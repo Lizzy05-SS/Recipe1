@@ -1,2 +1,2 @@
-# Recipe1
-A git tutorial project
+# Guacamole Recipe
+used in teaching git
